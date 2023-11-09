@@ -1,0 +1,34 @@
+@charset = "utf-8";
+*{margin:0;padding:0;}
+body{
+background-color:#a7d0ca;
+}
+.web_bg{
+  background-color: #7cc9bc;
+}
+.hanul{
+  background-color: #567bcc;
+}
+div img{
+  margin:0 auto;
+  display: block;
+}
+.guide img{
+  width: 1320px;
+}
+.fixed{
+  position: fixed;
+  right:100px;
+  bottom:100px;
+}
+.fixed:hover{
+  opacity:0.8;
+}
+.fixed2{
+  position: fixed;
+  right:100px;
+  bottom:40px;
+}
+.fixed2:hover{
+  opacity:0.8;
+}
