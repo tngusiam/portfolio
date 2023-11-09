@@ -631,7 +631,7 @@ a.active {
 .skill-box > .skills-circle > ul > li {
   width: 150px;
   height: 150px;/*원크기조정가능*/
-  background-color: #ffe6e6;/*1.bar 채워지지않은 비워있는 color*/
+
   border-radius: 50%;
   position: relative;
   display: inline-block;
