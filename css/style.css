@@ -433,7 +433,7 @@ a.active {
         padding: 200px 0 100px;
     }
 }
-@media(max-height:700px){
+@media(max-height:830px){
     #about {
         padding: 300px 0 100px;
     }
